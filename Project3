@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Escape From Reality</title>
+    <link rel="stylesheet" href="https://unpkg.com/tachyons@4.9.0/css/tachyons.min.css">
+  </head>
+  <body>
+    <h1 class="flex justify-center avenir f4 f2-m f-subheadline-l fw5 fw4-m fw4-l">E S C A P E f r o m R E A L I T Y</h1>
+    <div class="flex justify-center avenir f5 f4-m f2-l fw3 fw2-l ml4 ml4-m ml6-l mr4 mr4-m mr6-l pt3 pb4 i">
+      The message behind the drawing projects the fear people have growing up. The fear for what's to come and the inevitable day of death.
+    </div>
+    <div class="pt2 pb2 pt3-m pb3-m pt4-l pb4-l">
+    <img src="project34.jpg" class="flex center w-80 w-70-m w-70-l" alt="Escape From Reality">
+    </div>
+    <div class="flex justify-center avenir f4 f3-m f1-l fw3 fw4-l ml4 ml4-m ml4-l mr4 mr4-m mr4-l i pt4 pb4">
+      "Escape From Reality is an observational illustration done for the RISD portfolio. The drawing took 4 weeks in a span of a month and a half. Below the process, from transfer to render, is shown."
+    </div>
+    <!--Process images------------------------------------->
+    <div class="flex justify-center pl4 pl5-m pl6-l pr4 pr5-m pr6-l pt2 pt3-m pt4-l">
+        <div class="">
+          <img src="project33.jpg" alt="Process1">
+        </div>
+        <div class="">
+          <img src="project35.jpg" alt="Process2">
+        </div>
+    </div>
+      <div class="pl4 pl5-m pl6-l pr4 pr5-m pr6-l pb4 pb5-m pb5-l">
+        <img src="project31.jpg" alt="Process3">
+      </div>
+    <!--Return Button-------------------------------------->
+    <div class="tc flex justify-around pa2-l pa1 helvetica fw3-l fw3-m fw2-ns fw2 f7 f6-ns f4-m f4-l">
+        <div class="w-50 w-50-m w-30-l">
+            <a class="ba h2 h3-m h3-l db black no-underline pt2 pt3-m pt3-l link pv2 db bg-animate hover-bg-near-black link hover-white" href="/Projects.html">O T H E R | P R O J E C T S</a>
+        </div>
+    </div>
+  </body>
+</html>

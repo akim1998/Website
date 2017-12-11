@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Mirrors</title>
+    <link rel="stylesheet" href="https://unpkg.com/tachyons@4.9.0/css/tachyons.min.css">
+  </head>
+  <body class="bg-near-black">
+
+    <div class="white f-subheadline avenir fw2 flex pt4 justify-center">M I R R O R S</div>
+<!--Details-------------------------------------->
+    <div class="white f4-l f6-m f7 avenir fw1 flex justify-center ml4 mr4 ml5-m mr5-m ml7-l mr7-l mt4 i">
+        "The story of the man with high class remains an ominous mystery. The secret he hold lingers through the dark cracks of his home bringing chills up the spines of his victims. On the outside he appears to be a fine looking man, but through the mirror the devil inside him rises."
+    </div>
+<!--Image-------------------------------------->
+    <div class="MirrorsD">
+        <img src="project11.jpg" class="flex center w-50-l w-60 w-50-m pt4" alt="Mirrors Drawing">
+    </div>
+<!--Text-------------------------------------->
+    <div class="white f3-l f4-m f5 avenir fw1 flex justify-center ml5 mr5 ml5-m mr5-m ml7-l mr7-l mt4">
+        Below is the process to the drawing from transfer to rendering. The drawing took 3 weeks in a span of 3 months to draw out. The drawing was made for the RISD bike drawing that is required when applying to the Rhode Island School of Design.
+    </div>
+<!--Process-------------------------------------->
+  <div class="flex justify-center ml6-l ml5-m ml3 pb4">
+    <div class="Process1">
+        <img src="project13.jpg" class="pt4 w-80-l w-90 w-80-m" alt="Process Part 1">
+    </div>
+    <div class="Process2">
+        <img src="project14.jpg" class="pt4 w-80-l w-90 w-80-m" alt="Process Part 2">
+    </div>
+  </div>
+<!--Return Button-------------------------------------->
+    <div class="tc flex justify-around pa2-l pa1 helvetica fw3-l fw3-m fw2-ns fw2 f7 f6-ns f5-m f4-l">
+        <div class="w-40 w-25-m w-20-l">
+            <a class="ba h2 h2-m h3-l db white no-underline pt2 pt2-m pt3-l link pv2 db bg-animate hover-bg-light-gray link hover-black" href="/Projects.html">O T H E R | P R O J E C T S</a>
+        </div>
+    </div>
+  </body>
+</html>

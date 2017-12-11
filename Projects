@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Projects</title>
+    <link rel="stylesheet" href="https://unpkg.com/tachyons@4.9.0/css/tachyons.min.css">
+    <style media="screen">
+      .Project1 {
+          background: url(project11.jpg);
+          }
+      .Project2 {
+          background: url(Klee5.png);
+          }
+      .Project3 {
+          background: url(project34.jpg);
+          }
+    </style>
+  </head>
+
+<body class="black-70">
+  <div class="Projects flex pa2 pb3 f1-l f2-m f3 justify-center helvetica fw1">
+  P R O J E C T S
+  </div>
+
+  <div class="tc flex justify-around pa2-l pa1 helvetica fw3-l fw3-m fw2-ns fw2 f7 f6-ns f5-m f4-l">
+    <!--Home-->
+    <div class="w-30 w-25-m w-20-l">
+      <a class="ba h2 h2-m h3-l db black no-underline pt2 pt2-m pt3-l link pv2 db bg-animate hover-bg-light-gray link hover-white" href="/Home.html">H O M E</a>
+    </div>
+    <!--About-->
+    <div class="w-30 w-25-m w-20-l">
+      <a class="ba h2 h2-m h3-l db black no-underline pt2 pt2-m pt3-l link pv2 db bg-animate hover-bg-light-gray link hover-white" href="/About.html">A B O U T</a>
+    </div>
+    <!--Contact-->
+    <div class="w-30 w-25-m w-20-l">
+      <a class="ba h2 h2-m h3-l db black no-underline pt2 pt2-m pt3-l link pv2 db bg-animate hover-bg-light-gray link hover-white" href="/Contact.html">C O N T A C T</a>
+    </div>
+
+  </div>
+
+      <div class= "flex vh-100 pt4 justify-center">
+
+
+  <!--Project3------------------------------------------>
+          <div>
+              <a class="Project3 cover w-40-l w-30-m h-25 pa4 pv6 h-50-m pa5-m pv6-m pa6-l pv7-l db no-underline grow dib" href="Project3.html">
+              </a>
+          </div>
+  <!--Project2------------------------------------------>
+          <div>
+              <a class="Project2 cover w-40-l w-30-m h-25 pa4 pv6 h-50-m pa5-m pv6-m pa6-l pv7-l db no-underline grow dib" href="Project2.html">
+              </a>
+          </div>
+  <!--Project1------------------------------------------>
+          <div class>
+              <a class="Project1 cover w-40-l w-30-m h-25 pa4 pv6 h-50-m pa5-m pv6-m pa6-l pv7-l db no-underline grow dib" href="Project1.html">
+              </a>
+          </div>
+      </div>
+</body>
+</html>

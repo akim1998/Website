@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>About</title>
+    <link rel="stylesheet" href="https://unpkg.com/tachyons@4.9.0/css/tachyons.min.css">
+  </head>
+  <body>
+    <h1 class="AboutMe flex justify-center fw1 f1-m f-subheadline-l helvetica pt3">A B O U T | M E</h1>
+
+    <div class="tc flex justify-around pa2-l pa1 helvetica fw3-l fw3-m fw2-ns fw2 f7 f6-ns f5-m f4-l">
+      <!--Home-->
+      <div class="w-30 w-25-m w-25-l">
+        <a class="ba h2 h3-m h3-l db black no-underline pt2 pt3-m pt3-l link pv2 db bg-animate hover-bg-light-gray link hover-white" href="/Home.html">H O M E</a>
+      </div>
+      <!--Projects-->
+      <div class="w-30 w-25-m w-25-l">
+        <a class="ba h2 h3-m h3-l db black no-underline pt2 pt3-m pt3-l link pv2 db bg-animate hover-bg-light-gray link hover-white" href="/Projects.html">P R O J E C T S</a>
+      </div>
+      <!--Contact-->
+      <div class="w-30 w-25-m w-25-l">
+        <a class="ba h2 h3-m h3-l db black no-underline pt2 pt3-m pt3-l link pv2 db bg-animate hover-bg-light-gray link hover-white" href="/Contact.html">C O N T A C T</a>
+      </div>
+    </div>
+
+    <div class="Text flex justify-center ml4 mr4 ml5-m mr5-m mw-70 pa1 pa6-l pt4 pt5-l helvetica fw2 f3-m f2-l">
+      Hello, my name is Andrew Kim. I am a graphic designer studying at Boston University. Working on a computer is one of the few things I enjoyed doing ever since I was a kid. With programs such as illustrator, I am able to express my passion for working on designs that would be put out for the public's viewing. Alongside this, I enjoy drawing with pen and graphite. I also enjoy playing a few games to wind down for the day, or even listening to some songs on Spotify. I don't go out much, but the inside is enough of an adventure and excitement for me, yet at the same time the outside is also a great atmosphere that refreshes my senses and helps bring focus back to my work.
+    </div>
+  </body>
+</html>

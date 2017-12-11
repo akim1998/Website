@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Typography Studies</title>
+    <link rel="stylesheet" href="https://unpkg.com/tachyons@4.9.0/css/tachyons.min.css">
+  </head>
+  <body class="">
+      <h1 class="flex justify-center avenir f3 fw4 f2-m fw3-m f1-l fw3-l">T Y P O G R A P H Y s t u d i e s</h1>
+        <div class="flex justify-center  avenir ml5 mr5 ml5-m mr5-m ml7-l mr7-l f6 f5-m f3-l fw2">
+          These are a few of the typography studies and projects that I worked on along the first semester of my Typography class. I explored the use of color during many of the projects and seeing how color can be integrated into type.
+        </div>
+      <!--Paul Klee Posters---------------------->
+        <div class="avenir ml3 mr3 ml6-l mr6-l f5 f3-m f2-l pt4 i">
+          "Below are three iterations of the Paul Klee posters where we learn about the use of space and text within a poster. Later on the posters went through a coloring phase and brought these posters to where they are now."
+        </div>
+      <div class="flex items-center ml4 ml4-m ml5-l pt5-l pt3 pt4-m">
+        <div class="Klee1">
+          <img src="Klee1.png" class="w-80 w-90-m w-90-l" alt="PaulKlee Poster">
+        </div>
+        <div class="Klee5">
+          <img src="Klee5.png" class="w-80 w-90-m w-90-l" alt="PaulKlee Poster">
+        </div>
+        <div class="Klee7">
+          <img src="Klee7.png" class="w-80 w-90-m w-90-l" alt="PaulKlee Poster">
+        </div>
+      </div>
+      <!--Modello Covers------------------------->
+        <div class="avenir ml3 mr3 ml6-l mr6-l f5 f3-m f2-l pt3 pt4-m pt5-l i">
+          "Below are two color iterations of some of the Modello covers that I worked on for the last project. With the same idea as the Paul Klee Posters, I studied the use of space and the image themselves to create balance in the cover."
+        </div>
+      <div class="flex items-center ml4-m mr4-m ml5-l pt3 pt4-m pt5-l pb2">
+        <div class="color1">
+          <img src="color1.png" class="w-90-l" alt="Modello Cover">
+        </div>
+        <div class="color2">
+          <img src="color2.png" class="w-90-l" alt="Modello Cover">
+        </div>
+      </div>
+      <!--Return Button-------------------------------------->
+          <div class="tc flex justify-around pa2-l pa1 helvetica fw3-l fw3-m fw2-ns fw2 f7 f6-ns f4-m f4-l">
+              <div class="w-50 w-50-m w-30-l">
+                  <a class="ba h2 h3-m h3-l db black no-underline pt2 pt3-m pt3-l link pv2 db bg-animate hover-bg-near-black link hover-white" href="/Projects.html">O T H E R | P R O J E C T S</a>
+              </div>
+          </div>
+  </body>
+
+</html>

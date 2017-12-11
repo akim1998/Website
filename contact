@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Contact</title>
+    <link rel="stylesheet" href="https://unpkg.com/tachyons@4.9.0/css/tachyons.min.css">
+
+  </head>
+  <body>
+    <h1 class="helvetica flex fw2 justify-center f1-l f2-m f4-ns f5 pb4-l pb3">C O N T A C T</h1>
+
+    <div class="tc flex justify-around pa2-l pa1 helvetica fw3-l fw3-m fw2-ns fw2 f7 f6-ns f5-m f4-l">
+      <!--Home-->
+      <div class="w-30 w-25-m w-25-l">
+        <a class="ba h2 h3-m h3-l db black no-underline pt2 pt3-m pt3-l link pv2 db bg-animate hover-bg-light-gray link hover-white" href="/Home.html">H O M E</a>
+      </div>
+      <!--About-->
+      <div class="w-30 w-25-m w-25-l">
+        <a class="ba h2 h3-m h3-l db black no-underline pt2 pt3-m pt3-l link pv2 db bg-animate hover-bg-light-gray link hover-white" href="/About.html">A B O U T</a>
+      </div>
+      <!--Projects-->
+      <div class="w-30 w-25-m w-25-l">
+        <a class="ba h2 h3-m h3-l db black no-underline pt2 pt3-m pt3-l link pv2 db bg-animate hover-bg-light-gray link hover-white" href="/Projects.html">P R O J E C T</a>
+      </div>
+    </div>
+
+    <div class="helvetica flex flex-wrap fw2 f2-l f4-m f5 pt5-l pt4-m pt3 ml6-l ml4 ml5-m">
+    E M A I L : andrewkimof1998@gmail.com
+    </div>
+  </body>
+</html>
